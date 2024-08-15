@@ -1,0 +1,48 @@
+﻿@page "/product/update"
+@model LogBilisim.Web.Pages.Product.UpdateModel
+
+<div class="row justify-content-center">
+    <div class="col-6">
+        <div class="card">
+            <div class="card-body">
+                <form method="post">
+                    <input type="hidden" asp-for="UpdateProduct.Id"  />
+                    <div class="form-group">
+                        <label class="form-label">Ürün adı</label>
+                        <input type="text" class="form-control" asp-for="UpdateProduct.Name" />
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Açıklama</label>
+                        <textarea class="form-control" asp-for="UpdateProduct.Description"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Kategori</label>
+                        <select class="form-select form-control" asp-for="UpdateProduct.CategoryId" asp-items="@Model.CategoryList">
+                        </select>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-label">Price</label>
+                                <input type="number" class="form-control" asp-for="UpdateProduct.Price" />
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-label">Stok</label>
+                                <input type="number" class="form-control" asp-for="UpdateProduct.StockQuantity" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col text-end ml-3">
+                            <button type="submit" class="btn btn-success btn-sm">Kaydet</button>
+                            <a asp-page="/Product/Index" class="btn btn-warning btn-sm">Geri</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

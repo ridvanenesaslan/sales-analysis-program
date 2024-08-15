@@ -1,0 +1,21 @@
+﻿@page "/category/create"
+@model LogBilisim.Web.Pages.Category.CreateModel
+
+<div class="row justify-content-center">
+    <div class="col-6">
+        <div class="card">
+            <div class="card-body">
+                <form method="post">
+                    <div class="form-group">
+                        <label class="form-label">Kategori</label>
+                        <input type="text" class="form-control" asp-for="CreateCategory.Name" />
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-success btn-sm">Kaydet</button>
+                        <a asp-page="/Category/Index" class="btn btn-warning btn-sm">Geri</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

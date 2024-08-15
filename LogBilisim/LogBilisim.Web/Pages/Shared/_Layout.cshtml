@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LogBilisim.Web</title>
+
+    <link href="~/lib/font-awesome/css/all.min.css" rel="stylesheet" />
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/css/paper-dashboard.css?v=2.0.1" rel="stylesheet" />
+    <link href="~/assets/demo/demo.css" rel="stylesheet" />
+</head>
+<body class="">
+    <div class="wrapper ">
+        <!--Sidebar-->
+        <partial name="_Sidebar.cshtml" />
+
+
+        <div class="main-panel">
+            <!--Navbar-->
+            <partial name="_Navbar.cshtml" />
+            <div class="content">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+
+        </div>
+
+
+
+
+        <!--Footer-->
+        <partial name="_Footer.cshtml" />
+    </div>
+
+    <script src="~/assets/js/core/jquery.min.js"></script>
+    <script src="~/assets/js/core/popper.min.js"></script>
+    <script src="~/assets/js/core/bootstrap.min.js"></script>
+    <script src="~/lib/font-awesome/js/all.min.js"></script>
+    <script src="~/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+    <script src="~/assets/js/plugins/chartjs.min.js"></script>
+    <script src="~/assets/js/plugins/bootstrap-notify.js"></script>
+    <script src="~/assets/js/paper-dashboard.min.js?v=2.0.1" type="text/javascript"></script>
+    <script src="~/assets/demo/demo.js"></script>
+    <script>
+        $(document).ready(function () {
+            demo.initChartsPages();
+        });
+    </script>
+    @await Component.InvokeAsync("Notyf");
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

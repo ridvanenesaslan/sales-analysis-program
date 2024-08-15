@@ -1,0 +1,44 @@
+﻿@page "/payment/create"
+@model LogBilisim.Web.Pages.Payment.CreateModel
+
+<div class="row justify-content-center">
+    <div class="col-6">
+        <div class="card">
+            <div class="card-body">
+                <form method="post">
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-label">Ödeme Tarihi</label>
+                                <input type="date" class="form-control" asp-for="CreatePayment.PaymentDate" />
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-label">Ödeme Tutarı</label>
+                                <input type="number" class="form-control" asp-for="CreatePayment.PaymentAmount" />
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-label">Ödeme Şekli</label>
+                                <select class="form-select form-control" asp-for="CreatePayment.PaymentType" asp-items="@Html.GetEnumSelectList<LogBilisim.Web.Models.Enums.PaymentType>()">
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="row d-flex">
+                            <div class="col text-end ml-3">
+                                <button type="submit" class="btn btn-success btn-sm">Kaydet</button>
+                                <a asp-page="/Customer/Orders" asp-route-id="@TempData["customerId"]!.ToString()" class="btn btn-warning btn-sm">Geri</a>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LogBilisim.Web
+build_property.RootNamespace = LogBilisim.Web
+build_property.ProjectDir = C:\Users\Rıdvan\Desktop\Bitirme Projesi Tamamı\LogBilisim\LogBilisim.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Rıdvan\Desktop\Bitirme Projesi Tamamı\LogBilisim\LogBilisim.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Customer/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Customer/Payments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcUGF5bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Customer/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/OrderDetail/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/OrderDetail/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Order/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Order/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Order/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Payment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Payment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Payment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Payment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Payment/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Product/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rıdvan/Desktop/Bitirme Projesi Tamamı/LogBilisim/LogBilisim.Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3c0qb12xy3

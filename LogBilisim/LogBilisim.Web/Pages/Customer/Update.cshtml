@@ -1,0 +1,55 @@
+﻿@page "/Customer/Update"
+@model LogBilisim.Web.Pages.Customer.UpdateModel
+
+<div class="row justify-content-center">
+    <div class="col-6">
+        <div class="card">
+            <div class="card-body">
+                <form method="post">
+                    <input type="hidden" asp-for="CustomerUpdate.Id"  />
+                    <div class="form-group">
+                        <label class="form-label">Ad Soyad - Unvan</label>
+                        <input type="text" class="form-control" asp-for="CustomerUpdate.Name" />
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-label">Telefon</label>
+                                <input type="tel" class="form-control" asp-for="CustomerUpdate.PhoneNumber" />
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-label">E-Posta</label>
+                                <input type="email" class="form-control" asp-for="CustomerUpdate.EmailAddress" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-8">
+                            <div class="form-group">
+                                <label class="form-label">Adres</label>
+
+                                <textarea class="form-control" asp-for="CustomerUpdate.Address"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="form-group">
+                                <label class="form-label">Şehir</label>
+                                <input type="text" class="form-control" asp-for="CustomerUpdate.City" />
+                            </div>
+                        </div>
+                        <div class="row d-flex">
+                            <div class="col text-end ml-3">
+                                <button type="submit" class="btn btn-success btn-sm">Kaydet</button>
+                                <a asp-page="/Customer/Index" class="btn btn-warning btn-sm">Geri</a>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

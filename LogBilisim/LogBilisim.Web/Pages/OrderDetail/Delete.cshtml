@@ -1,0 +1,17 @@
+﻿@page "/orderdetail/delete"
+@model LogBilisim.Web.Pages.OrderDetail.DeleteModel
+
+<div class="row justify-content-center">
+    <div class="card">
+        <div class="card-title text-center p-1 text-danger">UYARI!</div>
+        <div class="card-body">
+            <p class="text-center">
+                @ViewData["message"]
+            </p>
+            <form method="post">
+                <button type="submit" class="btn btn-success">Evet</button>
+                <a asp-page="/Order/Details" asp-route-id="@TempData["orderId"]" class="btn btn-warning">Hayır</a>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+﻿@page "/order/update"
+@model LogBilisim.Web.Pages.Order.UpdateModel
+
+<div class="row justify-content-center">
+    <div class="col-6">
+        <div class="card">
+            <div class="card-body">
+                <form method="post">
+                    <input type="hidden" asp-for="UpdateOrder.Id"  />
+                    <div class="form-group">
+                        <label class="form-label">Sipariş Statüsü</label>
+                        <select class="form-select form-control" asp-for="UpdateOrder.OrderStatus" asp-items="@Html.GetEnumSelectList<LogBilisim.Web.Models.Enums.OrderStatusType>()">
+                        </select>
+                    </div>
+                    <div class="row">
+                        <div class="col text-end ml-3">
+                            <button type="submit" class="btn btn-success btn-sm">Kaydet</button>
+                            <a asp-page="/Order/Index" class="btn btn-warning btn-sm">Geri</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

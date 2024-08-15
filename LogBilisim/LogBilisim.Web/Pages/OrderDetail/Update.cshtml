@@ -1,0 +1,30 @@
+﻿@page "/orderdetail/update"
+@model LogBilisim.Web.Pages.OrderDetail.UpdateModel
+
+
+<div class="row justify-content-center">
+    <div class="col-6">
+        <div class="card">
+            <div class="card-body">
+                <form method="post">
+                    <input type="hidden" asp-for="UpdateOrderDetail.Id" />
+                    <div class="form-group">
+                        <label class="form-label">Ürün</label>
+                        <select class="form-select form-control" asp-for="UpdateOrderDetail.ProductId" asp-items="@Model.ProductList">
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Miktar</label>
+                        <input type="number" asp-for="UpdateOrderDetail.Quantity" class="form-control" />
+                    </div>
+                    <div class="row">
+                        <div class="col text-end ml-3">
+                            <button type="submit" class="btn btn-success btn-sm">Kaydet</button>
+                            <a asp-page="/Order/Details" asp-route-id="@TempData["orderId"]" class="btn btn-warning btn-sm">Geri</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

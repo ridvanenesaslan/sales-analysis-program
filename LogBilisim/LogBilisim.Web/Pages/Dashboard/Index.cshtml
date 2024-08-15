@@ -1,0 +1,181 @@
+﻿@page "/dashboard/index"
+@model LogBilisim.Web.Pages.Dashboard.IndexModel
+
+<div class="row">
+    <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="card card-stats">
+            <div class="card-body ">
+                <div class="row">
+                    <div class="col-5 col-md-4">
+                        <div class="icon-big text-center icon-warning">
+                            <i class="nc-icon nc-single-02 text-warning"></i>
+                        </div>
+                    </div>
+                    <div class="col-7 col-md-8">
+                        <div class="numbers">
+                            <p class="card-category">Müşteri</p>
+                            <p class="card-title">@Model.CustomerCount<p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="card card-stats">
+            <div class="card-body ">
+                <div class="row">
+                    <div class="col-5 col-md-4">
+                        <div class="icon-big text-center icon-warning">
+                            <i class="nc-icon nc-laptop text-success"></i>
+                        </div>
+                    </div>
+                    <div class="col-7 col-md-8">
+                        <div class="numbers">
+                            <p class="card-category">Ürün</p>
+                            <p class="card-title">@Model.ProductCount<p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="card card-stats">
+            <div class="card-body ">
+                <div class="row">
+                    <div class="col-5 col-md-4">
+                        <div class="icon-big text-center icon-warning">
+                            <i class="nc-icon nc-bookmark-2 text-danger"></i>
+                        </div>
+                    </div>
+                    <div class="col-7 col-md-8">
+                        <div class="numbers">
+                            <p class="card-category">Kategori</p>
+                            <p class="card-title">@Model.CategoryCount<p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 col-sm-6">
+        <div class="card card-stats">
+            <div class="card-body ">
+                <div class="row">
+                    <div class="col-5 col-md-4">
+                        <div class="icon-big text-center icon-warning">
+                            <i class="nc-icon nc-money-coins text-danger"></i>
+                        </div>
+                    </div>
+                    <div class="col-7 col-md-8">
+                        <div class="numbers">
+                            <p class="card-category">Ciro</p>
+                            <p class="card-title">@Model.TotalOrder<p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="card ">
+            <div class="card-header ">
+                <h5 class="card-title">Satış İstatistiği</h5>
+                <p class="card-category">Yıl Bazlı Aylara Göre Satış Adedi</p>
+            </div>
+            <div class="card-header">
+                <select class="form-select form-control" id="years">
+                    <option value="">Yıl Seçiniz</option>
+                    <option value="2024">2024</option>
+                    <option value="2025">2025</option>
+                    <option value="2026">2026</option>
+                    <option value="2027">2027</option>
+                    <option value="2028">2028</option>
+                </select>
+            </div>
+            <div class="card-body ">
+                <canvas id="salesChart" width="400" height="100"></canvas>
+            </div>
+           
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/assets/js/plugins/chartjs.min.js"></script>
+
+    <script>
+
+        $(document).ready(() => {
+
+
+            $('#years').on('change', function () {
+
+                let year = $('#years').find(":selected").val();
+
+                $.ajax({
+                    url: "/Dashboard/Index?year=" + year,
+                    type: "POST",
+                    data: { year: year},
+                    headers:
+                    {
+                        "RequestVerificationToken": getToken()
+                    },
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: OnSuccessResult,
+                    error: OnError
+                });
+
+            });
+
+
+            function OnSuccessResult(data) {
+                let _data = data;
+                let _chartLabels = _data[0];
+                let _chartData = _data[1];
+
+                const ctx = document.getElementById('salesChart');
+
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: _chartLabels,
+                        datasets: [{
+                            backgroundColor: "blue",
+                            data: _chartData,
+                            borderWidth: 1
+                        }]
+                    },
+                    
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
+
+            }
+
+            function OnError(err) {
+
+            }
+
+             function getToken() {
+             let token = '@Html.AntiForgeryToken()';
+             token = $(token).val();
+             return token;
+            }
+
+        });
+
+
+    </script>
+}

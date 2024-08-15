@@ -1,0 +1,661 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LogBilisim.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LogBilisim.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\css\\paper-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\css\\paper-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\css\\paper-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\img\\log_bilisim_logo.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\log_bilisim_logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\paper-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\paper-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\paper-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_animated-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_animated-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_footers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Rıdvan\\Desktop\\LogBilisim\\LogBilisim.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LogBilisim.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LogBilisim.Web.props",
+      "PackagePath": "build\\LogBilisim.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LogBilisim.Web.props",
+      "PackagePath": "buildMultiTargeting\\LogBilisim.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LogBilisim.Web.props",
+      "PackagePath": "buildTransitive\\LogBilisim.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
